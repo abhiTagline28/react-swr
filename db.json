@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "address": "USA",
+      "phone": "555-555-5555",
+      "id": "1001"
+    },
+    {
+      "id": "1002",
+      "name": "Abhi",
+      "email": "abhi.doe@gmail.com",
+      "phone": "666-555-5555",
+      "address": "India"
+    },
+    {
+      "id": "1003",
+      "name": "Shubham",
+      "email": "shu.doe@gmail.com",
+      "phone": "666-777-5555",
+      "address": "India"
+    },
+    {
+      "name": "Abhi",
+      "email": "abhi@gmail.com",
+      "address": "donotdeletess",
+      "phone": "7845895645",
+      "id": "pMLsQpb"
+    },
+    {
+      "name": "Shardul",
+      "email": "shardul@gmail.com",
+      "address": "Pune",
+      "phone": "7896547812",
+      "id": "GBI3bsf"
+    },
+    {
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "address": "Kanpur",
+      "phone": "7889451259",
+      "id": "vQp4xA4"
+    }
+  ]
+}
